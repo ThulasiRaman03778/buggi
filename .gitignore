@@ -1,0 +1,21 @@
+# Secrets and configuration files
+Home/client_secret.json
+.main.json
+.main1.json
+
+# Python files
+*.pyc
+__pycache__/
+
+# Django files
+*.sqlite3
+db.sqlite3
+*.log
+# Virtual environment
+venv/
+.env/
+# IDE and OS-specific files
+.vscode/
+.idea/
+.DS_Store
+.history
